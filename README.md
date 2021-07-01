@@ -9,3 +9,7 @@ A trick which helps you fetch urls from google image
 
 ## How to download images using fetched urls
 TODO
+
+<br/>
+
+> Reference: https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
